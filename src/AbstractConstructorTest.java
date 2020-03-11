@@ -9,7 +9,7 @@ public class AbstractConstructorTest {
 	}
 }
 
-// test for git 
+// test for git for test
 
 abstract class Server {
 	protected final String name;
