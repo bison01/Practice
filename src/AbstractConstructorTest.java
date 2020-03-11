@@ -10,7 +10,7 @@ public class AbstractConstructorTest {
 }
 
 // test for git for test
-
+// test line for commit 
 abstract class Server {
 	protected final String name;
 
